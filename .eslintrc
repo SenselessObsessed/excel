@@ -17,7 +17,8 @@
 		"indent": "off",
 		"no-trailing-spaces": "off",
 		"max-len": "off",
-		"operator-linebreak": "off"
+		"operator-linebreak": "off",
+		"prefer-const": "off"
 	},
 	"extends": ["eslint:recommended", "google"]
 }
