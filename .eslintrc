@@ -21,5 +21,6 @@
 		"prefer-const": "off",
 		"space-before-function-paren": "off"
 	},
+	"plugins": ["jest"],
 	"extends": ["eslint:recommended", "google"]
 }
